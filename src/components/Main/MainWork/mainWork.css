@@ -1,0 +1,17 @@
+.main_work {
+	text-align: center;
+	padding: 100px 0 100px 0;
+}
+.main_work h1 {
+	margin-bottom: 30px;
+}
+.main_work p {
+	margin-bottom: 175px;
+	color: #787878;
+}
+.main_work img:hover {
+	opacity: 0.9;
+}
+.main_work img {
+	margin: 10px;
+}
