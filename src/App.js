@@ -22,7 +22,7 @@ class App extends Component {
 	render(){
 		return (
 			<React.Fragment>
-				<a className="class1" id="upbutton" href="#" onClick="smoothJumpUp();">
+				<a className="class1" id="upbutton" href="#" onClick={smoothJumpUp()}>
 					<img src="./img/up1.png" alt="Top" border="none" title="Наверх"/>
 				</a>
 				<Header />
