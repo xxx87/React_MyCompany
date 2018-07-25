@@ -54,7 +54,7 @@ main {
 	color: #848484;
 }
 .about_right li {
-	background: url("../../img/marker.png") 0px no-repeat;
+	background: url("/img/marker.png") 0px no-repeat;
 	padding-left: 25px;
 	margin-top: 10px;
 	color: #5a5a5a;
