@@ -1,39 +1,39 @@
 * {
-	margin: 0;
-	padding: 0;
+  margin: 0;
+  padding: 0;
 }
 body {
-	font-family: 'Open Sans', sans-serif;
+  font-family: "Open Sans", sans-serif;
 }
 a {
-	text-decoration: none;
+  text-decoration: none;
 }
 li {
-	list-style: none;
+  list-style: none;
 }
 h1:after {
-	content: '';
-	display: block;
-	margin: 0 auto;
-	width: 100px;
-	padding-top: 30px;
-	border-bottom: 3px solid #fcac45;
+  content: "";
+  display: block;
+  margin: 0 auto;
+  width: 100px;
+  padding-top: 30px;
+  border-bottom: 3px solid #fcac45;
 }
 html {
-	scroll-behavior: smooth;
+  scroll-behavior: smooth;
 }
 #upbutton {
-	position: fixed;
-	right: 20px;
-	top: 85%;
+  position: fixed;
+  right: 20px;
+  top: 85%;
 }
 .class1 {
-	visibility: hidden;
-	opacity: 0;
-	transition: linear 1s;
+  visibility: hidden;
+  opacity: 0;
+  transition: linear 1s;
 }
 .class2 {
-	visibility: visible;
-	opacity: 1;
-	transition: opacity 1s;
+  visibility: visible;
+  opacity: 1;
+  transition: opacity 1s;
 }

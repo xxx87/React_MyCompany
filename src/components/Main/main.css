@@ -1,83 +1,85 @@
 main {
-	display: flex;
-	flex-direction: column;
-	width: 100%;
+  display: flex;
+  flex-direction: column;
+  width: 100%;
 }
 .main_welcome {
-	background: #000;
-	text-align: center;
-	padding: 200px 0 410px 0;
+  background: #000;
+  text-align: center;
+  padding: 200px 0 410px 0;
 }
 .main_welcome p {
-	color: #999999;
-	font-size: 20px;
+  color: #999999;
+  font-size: 20px;
 }
 .main_welcome h1 {
-	color: #999999;
-	font-size: 44px;
+  color: #999999;
+  font-size: 44px;
 }
-.main_welcome h1, .about_right h1, .main_clients h1, .main_work h1 {
-	font-weight: lighter;
+.main_welcome h1,
+.about_right h1,
+.main_clients h1,
+.main_work h1 {
+  font-weight: lighter;
 }
 
 .main_welcome h1:after {
-	display: none;
+  display: none;
 }
 .mycompany {
-	color: #fcac45;
+  color: #fcac45;
 }
-.mycompany, .bolderText {
-	font-weight: bold;
+.mycompany,
+.bolderText {
+  font-weight: bold;
 }
 .wrapper {
-	width: 80%;
-	margin: 0 auto;
+  width: 80%;
+  margin: 0 auto;
 }
 .main_about {
-	display: flex;
-	padding: 100px 0 100px 0;
+  display: flex;
+  padding: 100px 0 100px 0;
 }
 .about_right {
-	margin-left: 175px;
+  margin-left: 175px;
 }
 .about_right h1 {
-	display: inline-block;
-	border-bottom: 3px solid #fcac45;
-	padding-bottom: 20px;
-
+  display: inline-block;
+  border-bottom: 3px solid #fcac45;
+  padding-bottom: 20px;
 }
-.about_right h1:after{
-	display: none;
+.about_right h1:after {
+  display: none;
 }
 .about_right p {
-	margin: 30px 0 50px 0;
-	color: #848484;
+  margin: 30px 0 50px 0;
+  color: #848484;
 }
 .about_right li {
-	background: url("/img/marker.png") 0px no-repeat;
-	padding-left: 25px;
-	margin-top: 10px;
-	color: #5a5a5a;
-
+  background: url("/public/img/marker.png") 0px no-repeat;
+  padding-left: 25px;
+  margin-top: 10px;
+  color: #5a5a5a;
 }
 .mv-100 {
-	min-width: 100%;
+  min-width: 100%;
 }
 .liText {
-	font-style: italic;
+  font-style: italic;
 }
 
 .main_testimonials {
-	background: #000;
-	text-align: center;
-	color: #fff;
-	padding-bottom: 170px;
+  background: #000;
+  text-align: center;
+  color: #fff;
+  padding-bottom: 170px;
 }
 .upperCase {
-	text-transform: uppercase;
-	/*margin-bottom: 50px;*/
+  text-transform: uppercase;
+  /*margin-bottom: 50px;*/
 }
 .main_testimonials h1 {
-	margin-top: 100px;
-	margin-bottom: 30px;
+  margin-top: 100px;
+  margin-bottom: 30px;
 }

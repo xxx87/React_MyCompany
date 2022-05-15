@@ -1,19 +1,19 @@
 .services_cards {
-	text-align: center;
-	display: grid;
-	grid-template-columns: auto auto auto auto;
-	grid-column-gap: 20px;
+  text-align: center;
+  display: grid;
+  grid-template-columns: auto auto auto auto;
+  grid-column-gap: 20px;
 }
 .main_services h1 {
-	text-align: center;
-	padding: 100px 0 30px 0;
+  text-align: center;
+  padding: 100px 0 30px 0;
 }
 .main_services p {
-	color: #6c6c6c;
-	margin-bottom: 100px;
-	text-align: center;
+  color: #6c6c6c;
+  margin-bottom: 100px;
+  text-align: center;
 }
 .services_card h4 {
-	margin-top: 20px;
-	margin-bottom: 15px;
+  margin-top: 20px;
+  margin-bottom: 15px;
 }
