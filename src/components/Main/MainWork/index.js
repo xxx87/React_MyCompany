@@ -19,23 +19,47 @@ class MainWork extends Component {
             </i>
           </p>
           <div className="gallery">
-            <div className="line1">
-              <img src="./img/im1.png" alt="" />
-              <img src="./img/im1.png" alt="" />
-              <img src="./img/im1.png" alt="" />
-              <img src="./img/im1.png" alt="" />
+            <div className="lines line1">
+              <div>
+                <img src="./img/im1.png" alt="" />
+              </div>
+              <div>
+                <img src="./img/im1.png" alt="" />
+              </div>
+              <div>
+                <img src="./img/im1.png" alt="" />
+              </div>
+              <div>
+                <img src="./img/im1.png" alt="" />
+              </div>
             </div>
-            <div className="line2">
-              <img src="./img/im2.png" alt="" />
-              <img src="./img/im2.png" alt="" />
-              <img src="./img/im2.png" alt="" />
-              <img src="./img/im2.png" alt="" />
+            <div className="lines line2">
+              <div>
+                <img src="./img/im2.png" alt="" />
+              </div>
+              <div>
+                <img src="./img/im2.png" alt="" />
+              </div>
+              <div>
+                <img src="./img/im2.png" alt="" />
+              </div>
+              <div>
+                <img src="./img/im2.png" alt="" />
+              </div>
             </div>
-            <div className="line3">
-              <img src="./img/im3.png" alt="" />
-              <img src="./img/im3.png" alt="" />
-              <img src="./img/im3.png" alt="" />
-              <img src="./img/im3.png" alt="" />
+            <div className="lines line3">
+              <div>
+                <img src="./img/im3.png" alt="" />
+              </div>
+              <div>
+                <img src="./img/im3.png" alt="" />
+              </div>
+              <div>
+                <img src="./img/im3.png" alt="" />
+              </div>
+              <div>
+                <img src="./img/im3.png" alt="" />
+              </div>
             </div>
           </div>
         </div>

@@ -15,3 +15,7 @@
 .main_work img {
   margin: 10px;
 }
+
+.main_work .gallery .lines div {
+  display: inline;
+}
